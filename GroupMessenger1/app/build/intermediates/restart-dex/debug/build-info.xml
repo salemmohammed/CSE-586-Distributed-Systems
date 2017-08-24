@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="431704266689794"
+    token="-4037071024125371929"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="117" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="67" />
+    <task
+        name="verifier"
+        duration="16" />
+
+    <artifact
+        location="/Users/xiaoxin/Downloads/GroupMessenger1/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="431704266689794"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/xiaoxin/Downloads/GroupMessenger1/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

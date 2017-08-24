@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/xiaoxin/Downloads/GroupMessenger1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d6d57e714951d7494e20656c2e19d6b1781b0d61">
+        <dex dex="/Users/xiaoxin/Downloads/GroupMessenger1/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_25d8b68c3d96c5f1488ad18df9a3af3416be8528.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xiaoxin/Downloads/GroupMessenger1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="395fd3298be330ef72ba2b8f281b9edf04cecbcd">
+        <dex dex="/Users/xiaoxin/Downloads/GroupMessenger1/app/build/intermediates/pre-dexed/debug/instant-run_3221bc5462f7eaba18f243b33263d51ac82e654b.jar" />
+    </item>
+
+</items>
